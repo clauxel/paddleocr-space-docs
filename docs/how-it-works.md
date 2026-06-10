@@ -4,7 +4,7 @@ PaddleOCR Readiness Workspace turns install questions, Docker choices, Serving e
 
 ## Select deployment shape
 
-Choose local, Docker, Serving, API, MCP, or PaddleOCR-VL so the checklist matches the actual rollout.
+Choose local, Docker, Serving, API, MCP, or PaddleOCR-VL so the review path matches the actual rollout.
 
 ## Enter environment facts
 
