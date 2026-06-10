@@ -2,7 +2,7 @@
 
 PaddleOCR Readiness Workspace turns install questions, Docker choices, Serving endpoints, error messages, and model readiness into a practical launch report.
 
-## PaddleOCR install checklist
+## PaddleOCR install review
 
 Record OS, Python, package source, PaddlePaddle build, CUDA expectation, and one sample OCR command.
 
